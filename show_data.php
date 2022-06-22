@@ -9,10 +9,10 @@
 </head>
 <body>
 	<div class="container mt-5">
-		<h1 class="alert-info text-center md-5 p-3">AJAX CRUD</h1>
+		<h1 class="alert-info text-center md-5 p-3">AJAX-Crud</h1>
 		<div class="row">
 			<form class="col-sm-5" id="myform">
-				<h3 class="alert-warning text-center p-2">Add/update</h3>
+				<h3 class="alert-warning text-center p-2">Inserting</h3>
 			<div>
 				<input type="text" id="stuid" class="form-control">
 			<label for="name" class="form-label">name</label>
